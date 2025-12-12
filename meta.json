@@ -1,0 +1,91 @@
+{
+  "title": "Kampung Tenun Ikat Bandar Kidul - Workshop Kerajinan Tradisional",
+  "description": "Workshop kerajinan tenun ikat tradisional Indonesia dengan pengalaman unik di Kampung Tenun Ikat Bandar Kidul. Pelajari teknik legendaris, pencelupan warna alami, dan pelestarian budaya Jawa.",
+  "author": "Kampung Tenun Ikat Bandar Kidul",
+  "keywords": [
+    "tenun ikat",
+    "workshop tradisional",
+    "batik",
+    "kerajinan jawa",
+    "warisan budaya",
+    "bandar kidul"
+  ],
+  "version": "1.0.0",
+  "lastUpdated": "2025-12-11",
+  "contact": {
+    "email": "info@kampungtenunikat.com",
+    "phone": "+62 274-123-456",
+    "whatsapp": "+62 812-345-678",
+    "address": "Jalan Tenun Raya No. 45, Bandar Kidul, Jawa Tengah"
+  },
+  "social": {
+    "facebook": "https://facebook.com/kampungtenunikat",
+    "instagram": "https://instagram.com/kampungtenunikat",
+    "youtube": "https://youtube.com/@kampungtenunikat"
+  },
+  "deployment": {
+    "github_pages": "https://username.github.io/kampung-tenun-ikat",
+    "vercel": "https://kampung-tenun-ikat.vercel.app",
+    "custom_domain": "kampungtenunikat.com"
+  },
+  "colors": {
+    "primary": "#6B2D5C",
+    "primary_dark": "#4A1F42",
+    "primary_light": "#9B4A7E",
+    "accent_gold": "#D4AF37",
+    "text_dark": "#2C1A2F",
+    "text_light": "#F8F6FA"
+  },
+  "fonts": [
+    "Cinzel",
+    "Playfair Display",
+    "Georgia"
+  ],
+  "features": [
+    "Multi-language (ID/EN)",
+    "Responsive Design",
+    "Workshop Scheduling",
+    "Interactive Gallery",
+    "Registration Form",
+    "Tourism Info",
+    "Contact Information",
+    "Dark Mode Support",
+    "Accessibility Features"
+  ],
+  "pages": {
+    "home": {
+      "id": "home-content",
+      "sections": [
+        "Sejarah Sehelai Benang",
+        "Fakta Menarik",
+        "Teknik Ikat Pakan Legendaris",
+        "Pengalaman Seru di Kampung Tenun"
+      ]
+    },
+    "schedule": {
+      "id": "schedule",
+      "duration_days": 3,
+      "activities_count": 15
+    },
+    "gallery": {
+      "id": "gallery",
+      "motifs_count": 6,
+      "interactive": true
+    },
+    "tourism": {
+      "id": "wisata",
+      "cuisine_items": 4,
+      "attractions": 4,
+      "accommodations": 4
+    },
+    "registration": {
+      "id": "registration",
+      "form_fields": 8,
+      "storage": "localStorage"
+    },
+    "contact": {
+      "id": "contact",
+      "methods": ["Email", "Phone", "WhatsApp", "Physical Address"]
+    }
+  }
+}
